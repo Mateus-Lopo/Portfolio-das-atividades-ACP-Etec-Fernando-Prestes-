@@ -3,9 +3,9 @@ Portfólio das atividades ACP realizadas pela Etec Fernando Prestes em colabora�
 
 *PALESTRAS*
 -----------------------------------------------------------------------
-Palestrante: Eduardo Von. (Itix)
-Palestra: Criatividade e Inovação: um desafio constante.
-08 de Abril de 2024.
+Palestrante: Eduardo Von. (Itix)<br>
+Palestra: Criatividade e Inovação: um desafio constante.<br>
+08 de Abril de 2024.<br>
 
 Palestrante: Guilherme Bastos. (Tegra)
 Palestra: “As possibilidades da IA no mercado de trabalho.”
