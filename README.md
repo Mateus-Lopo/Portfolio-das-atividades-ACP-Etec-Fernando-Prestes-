@@ -1,7 +1,7 @@
 # Portfolio-das-atividades-ACP-Etec-Fernando-Prestes-
 Portfólio das atividades ACP realizadas pela Etec Fernando Prestes em colaboração com diferentes empresas. Leia o README.
 
-*PALESTRAS*
+#*PALESTRAS*#
 -----------------------------------------------------------------------
 Palestrante: Eduardo Von. (Itix)<br>
 Palestra: Criatividade e Inovação: um desafio constante.<br>
