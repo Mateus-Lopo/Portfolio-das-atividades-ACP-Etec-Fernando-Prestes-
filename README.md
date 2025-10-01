@@ -3,7 +3,7 @@ Portfólio das atividades ACP realizadas pela Etec Fernando Prestes em colabora�
 
 ---
 
-##2024
+## 2024
 
 **Palestrante:** Eduardo Von (Itix)<br>
 **Palestra:** Criatividade e Inovação: um desafio constante<br>
@@ -76,7 +76,7 @@ Portfólio das atividades ACP realizadas pela Etec Fernando Prestes em colabora�
 
 ---
 
-##2025
+## 2025
 
 **Palestrante:** Tiago Baldo (Eduzz)<br>
 **Palestra:** Desafios do primeiro emprego em TI e como superá-los<br>
