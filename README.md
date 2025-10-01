@@ -108,11 +108,6 @@ Portfólio das atividades ACP realizadas pela Etec Fernando Prestes em colabora�
 **Data:** 20 de Agosto de 2025  
 ---
 
-**Palestrante:** Andrea Maria Fieri, Raissa Brito Miranda e Rafael Santos (Itix)<br>
-**Palestra:** Treinamento de Banco de Dados<br>
-**Data:** 27 de Agosto de 2025  
----
-
 **Palestrante:** Guilherme Rodrigues Mattos<br>
 **Palestra:** Segurança de Informação e Cibersegurança<br>
 **Data:** 03 de Setembro de 2025  
